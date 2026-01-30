@@ -5,13 +5,11 @@ import AllTeam from './AllTeams';
 
 function Team() {
   return (
-    <>
-    <OfficeBearers/>
-    <section id='team'>
-    <AllTeam/>
+   <section id="team">
+      <OfficeBearers />
+      <AllTeam />
     </section>
-    </>
   )
-}
+};
 
 export default Team

@@ -1,53 +1,35 @@
 const SocialMediaTeam = [
     {
-      image: "/TeamImgs/social/jhadekartik.jpg",
-      name: "Jhade Kartik",
-      designation: "Lead",
-      socials: {
+      image: "/TeamImgs/social/aryan.jpg",
+      name: "Aryan Mittal",
+      designation: "Coordinator",
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/aryan_mi.ttal/",
       },
-      large: true,
+
     },
     {
-      image: "/TeamImgs/social/jahnvi.jpg",
-      name: "Jahnvi Gera",
-      designation: "Co Lead",
-      socials: {
+      image: "/TeamImgs/social/yashita.jpg",
+      name: "Yashita Gaur",
+      designation: "Coordinator",
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/y_g_yashitagaur/",
       },
-      large: true,
+
     },
-    {
-      image: "/TeamImgs/social/priyasvi.jpg",
-      name: "Priyasvi Sharma",
-      designation: "Co Lead",
-      socials: {
-      },
-      large: false,
-    },
-    {
-      image: "/TeamImgs/social/anchit.jpg",
-      name: "Anchit Ranaut",
+   {
+      image: "/TeamImgs/event/Dhairya.jpg",
+      name: "Dhairya Maniktala",
       designation: "Coordinator",
       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/dhairyamaniktala/",
       },
-      large: false,
+      
     },
-    {
-      image: "/TeamImgs/social/alokkumar.jpg",
-      name: "Alok Kumar",
-      designation: "Coordinator",
-      socials: {
-      },
-      large: false,
-    },
-    {
-      image: "/TeamImgs/social/mohitkumar.jpg",
-      name: "Kumar Mohit",
-      designation: "Coordinator",
-      socials: {
-      },
-      large: false,
-    },
-   
+    
   ];
   
   export default SocialMediaTeam;

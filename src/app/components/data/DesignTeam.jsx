@@ -1,53 +1,44 @@
 const DesignTeam = [
     {
-      image: "/TeamImgs/design/aekagrata.jpg",
-      name: "Aekagrata Kaushik",
-      designation: "Graphics Lead",
-      socials: {
-      },
-      large: true,
-    },
-    {
-      image: "/TeamImgs/design/harshita.jpg",
-      name: "Harshita Pandey",
-      designation: "Co Lead",
-      socials: {
-      },
-      large: true,
-    },
-    {
-      image: "/TeamImgs/design/pransh.png",
-      name: "Pransh Taank",
-      designation: "Co Lead",
-      socials: {
-      },
-      large: false,
-    },
-    {
-      image: "/TeamImgs/design/diyagupta.jpg",
-      name: "Diya Gupta",
+      image: "/TeamImgs/design/aditya.jpg",
+      name: "Aditya Jain",
       designation: "Coordinator",
-      socials: {
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/aadidj.jain/",
       },
-      large: false,
+     
     },
     {
-      image: "/TeamImgs/design/teena.jpg",
-      name: "Teena",
+      image: "/TeamImgs/design/dheeraj.jpg",
+      name: "Dheeraj Rajput",
       designation: "Coordinator",
-      socials: {
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/dheerajrajput6757/",
       },
-      large: false,
+      
     },
     {
-      image: "/TeamImgs/design/herojoshi.jpg",
-      name: "Hero Joshi",
+      image: "/TeamImgs/design/Keshav.webp",
+      name: "Keshav",
       designation: "Coordinator",
-      socials: {
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/keshav_bhardwaj.1?igsh=N212OGV5ZDNyMDdy",
       },
-      large: false,
+    
     },
-   
+    {
+      image: "/TeamImgs/design/yash.jpg",
+      name: "Yash Tohan",
+      designation: "Coordinator",
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/neucrodite/",
+      },
+     
+    },
     
   ];
   

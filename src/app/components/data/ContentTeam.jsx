@@ -1,52 +1,42 @@
 const ContentTeam = [
     {
-      image: "/TeamImgs/content/durga.jpeg",
-      name: "Durga Sharma",
-      designation: "Lead",
-      socials: {
-      },
-      large: true,
-    },
-    {
-      image: "/TeamImgs/content/avishi.jpg",
-      name: "Avishi Tyagi",
-      designation: "Co Lead",
-      socials: {
-      },
-      large: true,
-    },
-    {
-      image: "/TeamImgs/content/avanijain.jpeg",
-      name: "Avani Jain",
-      designation: "Co Lead",
-      socials: {
-      },
-      large: false,
-    },
-    {
-      image: "/TeamImgs/content/aditya.jpg",
-      name: "Aditya Choudhary",
+      image: "/TeamImgs/content/Nikhil.jpg",
+      name: "Nikhil Yadav",
       designation: "Coordinator",
-      socials: {
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/the_lost_vanara0502/",
       },
-      large: false,
     },
     {
-      image: "/TeamImgs/content/himanshukumar.jpg",
-      name: "Himanshu Kumar",
+      image: "/TeamImgs/content/sanat.jpeg",
+      name: "Sanat Pahuja",
       designation: "Coordinator",
-      socials: {
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/sanat_pahuja/",
       },
-      large: false,
     },
     {
-      image: "/TeamImgs/content/ojasvini.jpg",
-      name: "Ojasvini Dixit",
+      image: "/TeamImgs/content/sandeep.jpg",
+      name: "Sandeep Singh",
       designation: "Coordinator",
-      socials: {
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com//",
       },
-      large: false,
     },
+    {
+      image: "/TeamImgs/content/Ujjwal.jpeg",
+      name: "Ujjwal",
+      designation: "Coordinator",
+       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com//",
+      },
+
+    },
+    
   ];
 
 export default ContentTeam;

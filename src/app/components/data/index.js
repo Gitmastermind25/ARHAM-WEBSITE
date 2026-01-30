@@ -1,8 +1,7 @@
 import WebTeam from "./WebTeam";
 import DesignTeam from "./DesignTeam";
 import ContentTeam from "./ContentTeam";
-import EventTeam from "./EventTeam";
-import PrTeam from "./PrTeam";
+import EventPrTeam from "./EventPrTeam";
 import SocialMediaTeam from "./SocialMediaTeam";
 
-export { WebTeam, DesignTeam, ContentTeam, EventTeam, PrTeam, SocialMediaTeam };
+export { WebTeam, DesignTeam, ContentTeam, EventPrTeam, SocialMediaTeam };

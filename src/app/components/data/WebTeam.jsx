@@ -1,56 +1,43 @@
 const WebTeam = [
     {
-      image: "/TeamImgs/web/sups.jpg",
-      name: "Supril Kumar",
-      designation: "Web Team Lead",
-      socials: {
-        linkedin: "https://www.linkedin.com/in/supril-kumar/",
-        instagram: "https://www.instagram.com/_supril_/",
-      },
-      large: true,
-    },
-    {
-      image: "/TeamImgs/web/nishant.jpg",
-      name: "Nishant Tanwar",
-      designation: "Co Lead",
-      socials: {
-      },
-      large: true,
-    },
-    {
-      image: "/TeamImgs/web/dhruv.jpg",
-      name: "Dhruv Taneja",
+      image: "/TeamImgs/web/yogita.jpg",
+      name: "Yogita",
       designation: "Coordinator",
       socials: {
+        linkedin: "https://www.linkedin.com/in/yogita-022164303//",
+        instagram: "https://www.instagram.com/yogitapandit_/",
       },
-      large: false,
     },
     {
-      image: "/TeamImgs/web/krish.png",
-      name: "Krish Gupta",
+      image: "/TeamImgs/web/md.jpg",
+      name: "Md Ishrar",
       designation: "Coordinator",
       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/Crab.3963797/",
       },
-      large: false,
     },
     {
-      image: "/TeamImgs/web/mansi.jpeg",
-      name: "Mansi Aggarwal",
+      image: "/TeamImgs/web/shivam.jpg",
+      name: "Shashwat Shivam",
       designation: "Coordinator",
       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/shashwat_2541/",
       },
-      large: false,
+
     },
     {
-      image: "/TeamImgs/web/kartik.jpeg",
-      name: "Kartik Sharma",
+      image: "/TeamImgs/web/utkarsh.jpg",
+      name: "Utkarsh Sharma ",
       designation: "Coordinator",
       socials: {
+        linkedin: "https://www.linkedin.com/in//",
+        instagram: "https://www.instagram.com/utkarsh_____d.t.m.b/",
       },
-      large: false,
+
     },
-   
-    
+  
   ];
   
   export default WebTeam;
