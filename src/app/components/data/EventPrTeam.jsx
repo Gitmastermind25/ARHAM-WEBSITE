@@ -61,7 +61,7 @@ const EventPrTeam = [
      
     },
     {
-      image: "/TeamImgs/event/Mayank.jpg",
+      image: "/TeamImgs/event/mayank.jpg",
       name: "Mayank Sharma",
       designation: "Coordinator",
       socials: {
