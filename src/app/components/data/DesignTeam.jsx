@@ -20,7 +20,7 @@ const DesignTeam = [
       
     },
     {
-      image: "/TeamImgs/design/Keshav.webp",
+      image: "/TeamImgs/design/Keshav.jpg",
       name: "Keshav",
       designation: "Coordinator",
        socials: {
