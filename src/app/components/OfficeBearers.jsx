@@ -101,13 +101,13 @@ export default function OfficeBearers() {
         </div>
 
         {/* Show More / Show Less Button */}
-        {/*<div className="flex justify-center mt-4">
+        {/* <div className="flex justify-center mt-4">
           <button className="px-4 py-2 bg-[#D9EFDE] text-black font-semibold rounded-lg shadow-md hover:bg-[#b4f6a0d1]"
             onClick={() => setShowAll(!showAll)}
           >
             {showAll ? "Show Less" : "Show More"}
           </button>
-        </div>*/}
+        </div> */}
       </div>
     </section>
   );
