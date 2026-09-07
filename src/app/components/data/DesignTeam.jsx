@@ -9,16 +9,7 @@ const DesignTeam = [
       },
      
     },
-    {
-      image: "/TeamImgs/design/dheeraj.jpg",
-      name: "Dheeraj Rajput",
-      designation: "Coordinator",
-       socials: {
-        linkedin: "https://www.linkedin.com/in//",
-        instagram: "https://www.instagram.com/dheerajrajput6757/",
-      },
-      
-    },
+    
     {
       image: "/TeamImgs/design/Keshav.webp",
       name: "Keshav",
