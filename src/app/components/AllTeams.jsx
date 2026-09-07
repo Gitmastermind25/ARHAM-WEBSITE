@@ -1,6 +1,5 @@
 "use client";
 
-import OfficeBearers from "./OfficeBearers";
 import React from "react";
 import { Timeline } from "./ui/timeline";
 import {
@@ -74,7 +73,6 @@ export default function AllTeam() {
 
   return (
     <div>
-      <OfficeBearers />
 
       <div className="w-full text-white">
         <Timeline
